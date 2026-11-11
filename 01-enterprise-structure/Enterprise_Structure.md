@@ -101,10 +101,10 @@ All paths are under the IMG (`SPRO`) unless noted.
 ## 6\. Configuration Evidence
 
 ### Define Company (`OX15`)
-![Define Company Screenshot](./screenshots/ox15-define-company.png)
+![Define Company Screenshot](./screenshots/Define-company.png)
 
 ### Define Company Codes (`OX02`)
-![Company Code Screenshot](./screenshots/ox02-company-code.png)
+
 
 ### G/L Foundation
 
