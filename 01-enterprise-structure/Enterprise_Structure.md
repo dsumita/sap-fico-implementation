@@ -98,6 +98,14 @@ All paths are under the IMG (`SPRO`) unless noted.
 | 1.8a | Employee tolerance groups | `OBA4` | Financial Accounting Global Settings → Document → Tolerance Groups → Define Tolerance Groups for Employees | Pending verification |
 | 1.8b | Assign users to tolerance groups | `OB57` | Financial Accounting Global Settings → Document → Line Item → Assign User/Tolerance Groups | Pending verification |
 
+## 6\. Configuration Evidence
+
+### Define Company (`OX15`)
+![Define Company Screenshot](./screenshots/ox15-define-company.png)
+
+### Define Company Codes (`OX02`)
+![Company Code Screenshot](./screenshots/ox02-company-code.png)
+
 ### G/L Foundation
 
 | Step | Activity | T-Code | Values |
