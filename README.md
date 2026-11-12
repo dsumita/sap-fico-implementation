@@ -15,7 +15,7 @@ This repository documents configuration activities, implementation progress, scr
 * [ ] [04 — Accounts Receivable](./04-accounts-receivable/)
 * [ ] [05 — Asset Accounting](./05-asset-accounting/)
 * [ ] [06 — Controlling](./06-controlling/)
-* [ ]  [07 — Integration Phase](./07—integration-phase/)
+* [ ]  [07 — Integration Phase(Full Cycles)](./07—integration-phase/)
 
 *Progress is updated as configuration activities are completed and validated.*
 
