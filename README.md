@@ -10,7 +10,7 @@ This repository documents configuration activities, implementation progress, scr
 ## Implementation Progress
 
 * [x] [01 — Enterprise Structure](./01-enterprise-structure/)
-* [ ] [02 — General Ledger Accounting](./02-general-ledger/)
+* [x] [02 — General Ledger Accounting](./02-general-ledger/)
 * [ ] [03 — Accounts Payable](./03-accounts-payable/)
 * [ ] [04 — Accounts Receivable](./04-accounts-receivable/)
 * [ ] [05 — Asset Accounting](./05-asset-accounting/)
