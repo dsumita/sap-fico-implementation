@@ -146,11 +146,4 @@ All paths are under the IMG (`SPRO`) unless noted.
 
 ---
 
-## 7\. Open Items and Next Steps
 
-1. Create and assign the controlling area `C001` (`OKKP`) with cross-company cost accounting for both company codes  
-2. Verify and document employee tolerance groups (`OBA4`, `OB57`)  
-3. Configure group currency, parallel currency activation (`OB22`), and exchange rates (`OB08`)  
-4. Complete document splitting classification and post test entries in both company codes (`F-02`)  
-5. Run month-end tests: foreign currency valuation (`F.05`) and draft financial statements (`F.01`)  
-6. Proceed to Accounts Payable and Accounts Receivable using Business Partner (`BP`) master data, which replaces vendor and customer master transactions in S/4HANA
