@@ -28,7 +28,7 @@ A hands-on SAP S/4HANA Finance (FI) build for a fictional bicycle company operat
 
 ## 2\. Structure Diagram
 
-```
+```mermaid
 flowchart TD
     CLIENT["Client"] --> COMPANY["Company GBL<br/>Global Bike Ltd"]
     COMPANY --> CC3000["Company Code 3000<br/>Global Bike Ltd US<br/>USD"]
