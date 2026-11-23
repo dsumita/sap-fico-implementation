@@ -76,16 +76,15 @@ Configuration and master data steps for SAP Financial Accounting, General Ledger
 
 ## 2.6 Post Manual G/L Entries
 
-**T-code:** `FB50`
+**T-code:** `FB50` (Enter G/L Account Document)
+**Company codes:** 3000 and 4000 (post separately in each)
 
-Posted for company codes **3000** and **4000**.
+| Line | G/L Account | Description | Amount | Debit / Credit |
+|---|---|---|---|---|
+| 1 | 500000 | Office Expense | 500 | Debit |
+| 2 | 100000 | Asset account (e.g., Cash/Bank) | 500 | Credit |
 
-| Account | Description | Amount | Debit / Credit |
-|---|---|---|---|
-| 500000 | Office Expense | 500 | Credit |
-| 100000 | (Asset account) | 500 | Debit |
-
-> ⚠️ Please double-check the debit/credit direction. Normally an expense account is debited.
+Total debits equal total credits (500 = 500), so the document balances
 
 ### Error Encountered
 
