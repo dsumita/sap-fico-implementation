@@ -106,8 +106,3 @@ The posting gave an error and required extra steps:
 
 ---
 
-## Pending
-
-- [ ] Define Currency Types and Ledger Settings (will do later)
-- [ ] Add screenshots to `/screenshots`
-- [ ] Document the Document Splitting classification steps
