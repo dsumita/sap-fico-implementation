@@ -11,8 +11,8 @@ This repository documents configuration activities, implementation progress, scr
 
 * [x] [01 — Enterprise Structure](./01-enterprise-structure/)
 * [x] [02 — General Ledger Accounting](./02-general-ledger/)
-* [ ] [03 — Accounts Payable](./03-accounts-payable/)
-* [ ] [04 — Accounts Receivable](./04-accounts-receivable/)
+* [x] [03 — Accounts Payable](./03-accounts-payable/)
+* [x] [04 — Accounts Receivable](./04-accounts-receivable/)
 * [ ] [05 — Asset Accounting](./05-asset-accounting/)
 * [ ] [06 — Controlling](./06-controlling/)
 * [ ]  [07 — Integration Phase(Full Cycles)](./07—integration-phase/)
